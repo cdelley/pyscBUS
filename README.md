@@ -7,8 +7,9 @@ The file format was introduced by Páll Melsted, Sina Booeshaghi, Lior Pachtr
 and coworkers for kallisto.
 
 *Melsted, Páll, Booeshaghi, A. Sina et al. Modular and efficient pre-processing
-of single-cell RNA-seq. BioRxiv (2019): 673285, doi.org/10.1101/673285.   
-See file specifications at:*
+of single-cell RNA-seq. BioRxiv (2019): 673285, doi.org/10.1101/673285.*   
+
+See file specifications at:
 
 https://github.com/BUStools/BUS-format
 https://github.com/BUStools/bustools
