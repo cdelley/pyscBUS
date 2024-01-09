@@ -12,6 +12,7 @@ of single-cell RNA-seq. BioRxiv (2019): 673285, doi.org/10.1101/673285.*
 See file specifications at:
 
 https://github.com/BUStools/BUS-format
+
 https://github.com/BUStools/bustools
 
 Compressed BUS format is currently not supported. These need to be created (or decompressed)
